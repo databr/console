@@ -159,7 +159,9 @@
           if (_this.swaggerVersion === "1.2") {
             return _this.buildFromSpec(responseObj);
           } else {
-            return _this.buildFrom1_1Spec(responseObj);
+            return _this.buildFromSpec(responseObj);
+
+//            return _this.buildFrom1_1Spec(responseObj);
           }
         }
       }
