@@ -6,6 +6,8 @@
 [![Dependency Status](https://david-dm.org/swagger-api/swagger-ui/status.svg)](https://david-dm.org/swagger-api/swagger-ui)
 [![devDependency Status](https://david-dm.org/swagger-api/swagger-ui/dev-status.svg)](https://david-dm.org/swagger-api/swagger-ui#info=devDependencies)
 
+Junte-se a nós no Slack [clicando aqui](http://databr.herokuapp.com/), venha conversar com os mantenedores e interessados em API e dados publicos 
+
 Swagger UI is part of the Swagger project.  The Swagger project allows you to produce, visualize and consume your OWN RESTful services.  No proxy or 3rd party services required.  Do it your own way.
 
 Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically
